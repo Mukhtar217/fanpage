@@ -30,6 +30,7 @@ a {
     justify-content:space-around;
     color:red;
     font-size:50px;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .social{
@@ -46,6 +47,7 @@ a{
     color:yellow;
     text-decoration:none;
     margin:5px;
+    font-family: 'Quicksand', sans-serif;
     }
 a:hover{
     color:red;
@@ -60,4 +62,40 @@ a:hover{
 #home-img{
     width:100%;
     height:100%;
+}
+
+h1{
+    color:white;
+    padding:5px;
+}
+
+.aboutMain{
+    display:flex;
+}
+
+
+.rightPane{
+    width:50%;
+    font-family: 'Quicksand', sans-serif;
+    border:orange solid 1px;
+    margin: 10px;
+}
+
+.pOne {
+    color:red;
+    padding:10px;
+    width:50;
+}
+
+.aboutPic {
+    width:95%;
+    height:50%;
+    padding:2.5%;
+}
+
+.leftPane{
+    width:50%;
+    font-family: 'Quicksand', sans-serif;
+    border:orange solid 1px;
+    margin: 10px;
 }
