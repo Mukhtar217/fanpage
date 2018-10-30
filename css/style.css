@@ -89,7 +89,7 @@ h1{
 
 .aboutPic {
     width:95%;
-    height:50%;
+    height:40%;
     padding:2.5%;
 }
 
@@ -98,4 +98,16 @@ h1{
     font-family: 'Quicksand', sans-serif;
     border:orange solid 1px;
     margin: 10px;
+}
+
+.gallery{
+    display:flex;
+    justify-content:space-around;
+}
+.thumbnail-image {
+    height:300px;
+    width:300px;
+    margin:10px;
+    margin-top:20px;
+    border: solid 2px red;
 }
