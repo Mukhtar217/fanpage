@@ -67,6 +67,7 @@ a:hover{
 h1{
     color:white;
     padding:5px;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .aboutMain{
@@ -113,5 +114,33 @@ h1{
 }
 
 .pTwo {
+    font-family: 'Quicksand', sans-serif;
     color:yellow;
+    border: white solid;
+    width:95%px;
+    font-size:15px;
+}
+
+.pTwo:hover{
+    color:red;
+    text-decoration: underline;
+    border: red solid;
+}
+
+#names{
+    border:solid orange;
+    padding-left:12px; 
+    padding-right: 10px;
+    width:20%;
+    margin-top: 10px;
+}
+
+.title{
+    color:red;
+    text-decoration: underline;
+}
+
+.info{
+    width:80%;
+    
 }
