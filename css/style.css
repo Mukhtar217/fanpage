@@ -140,7 +140,49 @@ h1{
     text-decoration: underline;
 }
 
-.info{
+#info{
     width:80%;
+}
+
+.person{
+    width:45%;
+    height:40%;
+    border:solid red;
+    margin:10px;
+}
+
+.text{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color:orange;
+     padding-left: 10px;
+     padding-top:5%;
+}
+
+#pMain{
+    display:flex;
     
+}
+
+.link{
+    border:none;
+}
+
+.none{
+    display:none;
+}
+
+.flex{
+    display:flex;
+}
+
+#titleL{
+    display:flex;
+    justify-content:center;
+}
+#linksE{
+    color:white;
+    font-size: 30px;
+    display:flex;
+    justify-content:space-around;
 }
