@@ -143,6 +143,9 @@ h1{
 #info{
     width:80%;
 }
+#bye{
+    display:none;
+}
 
 .person{
     width:45%;
@@ -176,7 +179,7 @@ h1{
     display:flex;
 }
 
-#titleL{
+.titleL{
     display:flex;
     justify-content:center;
 }
@@ -185,4 +188,27 @@ h1{
     font-size: 30px;
     display:flex;
     justify-content:space-around;
+}
+#infoT{
+    display:flex;
+}
+.next{
+    font-family: 'Quicksand', sans-serif;
+    color:yellow;
+    padding-left: 50%;
+    font-size:20px;
+    display:none;
+}
+.next:hover{
+    color:red;
+    text-decoration: underline;
+}
+#nCR{
+    display:inline;
+}
+.name{
+    color:yellow;
+    font-family: 'Quicksand', sans-serif;
+    display:flex;
+    justify-content:center;
 }
