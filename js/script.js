@@ -98,7 +98,7 @@ function sG(){
     $(".next").css("display","none");
     $(".titleL").text("Allies");
     $(".name").text("Supergirl");
-    $(".person").attr("src","https://cdn3-www.comingsoon.net/assets/uploads/2017/09/This-Fall-on-The-CW-The-CW-YouTube.jpg");
+    $(".person").attr("src","https://media.comicbook.com/2018/05/supegirl-season-4-transgender-superhero-1110834-1280x0.jpeg");
     $(".text").text("Supergirl is an alien from Earth-38. Strong, bulletproof, and friendly. Flash meets supergirl when he entered her Earth by accident.");
     $("#nLG").css("display","inline");
 }
@@ -243,7 +243,7 @@ function tL(){
     $(".next").css("display","none");
     $(".titleL").text("Villains");
     $(".name").text("Timeline");
-    $(".person").attr("src","https://images-cdn.9gag.com/photo/app1RRb_700b.jpg");
+    $(".person").attr("src","https://media.tenor.com/images/1ff95e7fa9e948a6cc4c68ab4bb24c5c/tenor.png");
     $(".text").text("Ever since flashpoint, the Timeline has been a real problem for The Flash as he tends to change it a lot; causing lots of problems for him.");
     $("#nBA").css("display","inline");
 }
